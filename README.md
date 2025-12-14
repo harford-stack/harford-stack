@@ -1,4 +1,8 @@
+<div align="center">
+
 # Hi there, I'm [JiHoon KIM] 👋
+
+</div>
 
 <div align="center">
   
