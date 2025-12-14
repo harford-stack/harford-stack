@@ -160,9 +160,9 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400 width="48%" )
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400 width="48%" )
   
 </div>
 
@@ -170,7 +170,6 @@
 
 ## 📝 Blog & Portfolio
 
-- 📝 [Blog](https://your-blog-url.com) - 기술 블로그
 - 💼 [Portfolio](https://your-portfolio-url.com) - 포트폴리오 사이트
 - 📚 [Notion](https://your-notion-url.com) - 학습일지 및 프로젝트 문서
 
