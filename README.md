@@ -17,29 +17,29 @@
 ## 🛠️ Tech Stack
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-FF6B6B?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-6DB33F?logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-5.1.0-000000?logo=express&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-3.0.5-FF6B6B)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-2.x-4FC08D?logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Database
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
 
 ### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-4.8.1-010101?logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-9.0.2-000000?logo=jsonwebtokens&logoColor=white)
 
 ---
 
@@ -50,14 +50,22 @@
 
 팀 프로젝트로 개발한 러닝 커뮤니티와 쇼핑몰을 결합한 플랫폼입니다.
 
-- **기술 스택**: Spring Boot, MyBatis, Oracle, Vue.js, WebSocket
-- **주요 기능**: 
-  - 관리자 페이지 (문의, 교환/환불, 주문, 회원 관리)
-  - 매출 분석 대시보드 및 그래프
-  - 실시간 채팅 시스템
-  - SMS 인증 및 AI 기능 연동
-- **개발 기간**: 2025.10.23 ~ 11.10 (3주)
-- **역할**: 관리자 페이지 개발 담당
+**기술 스택**:  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-6DB33F?logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-3.0.5-FF6B6B)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-2.x-4FC08D?logo=vue.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+
+**주요 기능**: 
+- 관리자 페이지 (문의, 교환/환불, 주문, 회원 관리)
+- 매출 분석 대시보드 및 그래프
+- 실시간 채팅 시스템
+- SMS 인증 및 AI 기능 연동
+
+**개발 기간**: 2025.10.23 ~ 11.10 (3주)  
+**역할**: 관리자 페이지 개발 담당
 
 **트러블 슈팅**:
 - 취소 완료 처리 시 재고 관리 로직 누락 문제 해결
@@ -72,17 +80,26 @@
 
 레트로 게임 테마의 지도 기반 소셜 네트워크 서비스입니다.
 
-- **기술 스택**: React 19.2, Node.js, Express, MySQL, Socket.io, Redux Toolkit
-- **주요 기능**:
-  - Leaflet 지도를 활용한 마커 시스템
-  - 실시간 채팅 (WebSocket)
-  - 소셜 기능 (좋아요, 댓글, 북마크, 팔로우)
-  - 레트로 게임 테마 UI/UX
-- **개발 기간**: 2025.11.25 ~ 12.02 (8일)
-- **특징**: 
-  - React Hooks 최적화 (useCallback, useMemo)
-  - Optimistic UI 패턴 적용
-  - 서버 사이드 필터링 및 성능 최적화
+**기술 스택**:  
+![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-5.1.0-000000?logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-4.8.1-010101?logo=socket.io)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-2.11.0-764ABC?logo=redux&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-1.9.4-199900?logo=leaflet&logoColor=white)
+
+**주요 기능**:
+- Leaflet 지도를 활용한 마커 시스템
+- 실시간 채팅 (WebSocket)
+- 소셜 기능 (좋아요, 댓글, 북마크, 팔로우)
+- 레트로 게임 테마 UI/UX
+
+**개발 기간**: 2025.11.25 ~ 12.02 (8일)  
+**특징**: 
+- React Hooks 최적화 (useCallback, useMemo)
+- Optimistic UI 패턴 적용
+- 서버 사이드 필터링 및 성능 최적화
 
 [📖 프로젝트 상세 보기](https://github.com/your-username/3LineMarker)
 
@@ -93,17 +110,25 @@
 
 모바일 전용 화면으로 구현된 스터디카페 좌석 예약 시스템입니다.
 
-- **기술 스택**: Vue.js 2.x, Node.js, Express, Oracle, JWT, OAuth 2.0
-- **주요 기능**:
-  - 좌석 예약 시스템 (1인 1예약 원칙)
-  - 소셜 로그인 (카카오, 네이버, 구글)
-  - JWT 토큰 기반 인증
-  - 모바일 최적화 UI/UX
-- **개발 기간**: 2025.09.12 ~ 09.19 (8일)
-- **특징**:
-  - OAuth 2.0 인증 플로우 구현
-  - argon2 비밀번호 해싱
-  - API 문서화 (Swagger)
+**기술 스택**:  
+![Vue.js](https://img.shields.io/badge/Vue.js-2.x-4FC08D?logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-2.0-4285F4?logo=google&logoColor=white)
+
+**주요 기능**:
+- 좌석 예약 시스템 (1인 1예약 원칙)
+- 소셜 로그인 (카카오, 네이버, 구글)
+- JWT 토큰 기반 인증
+- 모바일 최적화 UI/UX
+
+**개발 기간**: 2025.09.12 ~ 09.19 (8일)  
+**특징**:
+- OAuth 2.0 인증 플로우 구현
+- argon2 비밀번호 해싱
+- API 문서화 (Swagger)
 
 [📖 프로젝트 상세 보기](https://github.com/your-username/PageStudy)
 
@@ -138,13 +163,16 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
   
   ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true)
   
 </div>
+
+> **참고**: GitHub Stats는 캐시로 인해 업데이트가 지연될 수 있습니다.  
+> 업데이트를 강제하려면 `cache_seconds` 파라미터를 조정하거나, Vercel 캐시를 무시하기 위해 URL에 `?v=1` 같은 버전 파라미터를 추가하세요.
 
 ---
 
@@ -170,9 +198,9 @@
 
 <div align="center">
   
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-username)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
   
 </div>
 
