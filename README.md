@@ -17,36 +17,57 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td><strong>Backend</strong></td>
-<td>Spring Boot 3.5.7, Spring Security, Node.js, Express 5.1.0, REST API, MyBatis 3.0.5</td>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>React 19.2.0, Vue.js 2.x, Redux Toolkit 2.11.0, React Router 7.9.6, Material-UI 7.3.5, JavaScript (ES6+), jQuery, HTML5, CSS3</td>
-</tr>
-<tr>
-<td><strong>Database</strong></td>
-<td>Oracle Database, MySQL 8.0</td>
-</tr>
-<tr>
-<td><strong>비동기 통신</strong></td>
-<td>Ajax, Fetch API, Axios 1.13.2, Socket.io 4.8.1, WebSocket</td>
-</tr>
-<tr>
-<td><strong>Server & Deploy</strong></td>
-<td>Linux, AWS (EC2, RDS, S3)</td>
-</tr>
-<tr>
-<td><strong>Security & Auth</strong></td>
-<td>JWT 9.0.2, OAuth 2.0, bcrypt 6.0.0, argon2</td>
-</tr>
-<tr>
-<td><strong>Tools & Others</strong></td>
-<td>Git, GitHub, Figma, Notion, Swagger, Multer 2.0.2, Leaflet 1.9.4</td>
-</tr>
-</table>
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring-security&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=rest&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-FF6B6B)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### 비동기 통신
+![Ajax](https://img.shields.io/badge/Ajax-0769AD?logo=jquery&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch_API-FF6B6B?logo=javascript&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=white)
+
+### Server & Deploy
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazon-ec2&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?logo=amazon-rds&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?logo=amazon-s3&logoColor=white)
+
+### Security & Authentication
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?logo=google&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-FF6B6B?logo=bcrypt&logoColor=white)
+![argon2](https://img.shields.io/badge/argon2-FF6B6B?logo=argon2&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-000000?logo=multer&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
 
 ---
 
@@ -167,7 +188,7 @@
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="56%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="43%" />
   
 </div>
 
