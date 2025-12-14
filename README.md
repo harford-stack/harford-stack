@@ -7,9 +7,6 @@
   사용자 중심의 서비스를 만드는 개발자입니다.  
   Spring Boot, React, Vue.js를 활용한 풀스택 웹 애플리케이션 개발을 하고 있습니다.
   
-  [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-  [![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)](https://github.com/your-username)
-  
 </div>
 
 ---
@@ -67,11 +64,7 @@
 **개발 기간**: 2025.10.23 ~ 11.10 (3주)  
 **역할**: 관리자 페이지 개발 담당
 
-**트러블 슈팅**:
-- 취소 완료 처리 시 재고 관리 로직 누락 문제 해결
-- 교환 완료 처리 시 복잡한 트랜잭션 관리 (`@Transactional` 적용)
-
-[📖 프로젝트 상세 보기](https://github.com/your-username/springProject2025)
+[📖 프로젝트 상세 보기](https://github.com/kkomi211/springProject2025)
 
 ---
 
@@ -101,7 +94,7 @@
 - Optimistic UI 패턴 적용
 - 서버 사이드 필터링 및 성능 최적화
 
-[📖 프로젝트 상세 보기](https://github.com/your-username/3LineMarker)
+[📖 프로젝트 상세 보기](https://github.com/harford-stack/3LineMarker)
 
 ---
 
@@ -130,7 +123,7 @@
 - argon2 비밀번호 해싱
 - API 문서화 (Swagger)
 
-[📖 프로젝트 상세 보기](https://github.com/your-username/PageStudy)
+[📖 프로젝트 상세 보기](https://github.com/harford-stack/LIB_Project)
 
 ---
 
@@ -163,11 +156,11 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
   
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=harford-stack&theme=radical&hide_border=true)
   
 </div>
 
