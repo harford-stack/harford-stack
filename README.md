@@ -22,6 +22,7 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring-security&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-5.1.0-000000?logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?logo=rest&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-3.0.5-FF6B6B)
 
 ### Frontend
@@ -40,8 +41,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
 
 ### 비동기 통신
-![Socket.io](https://img.shields.io/badge/Socket.io-4.8.1-010101?logo=socket.io&logoColor=white)
+![Ajax](https://img.shields.io/badge/Ajax-0769AD?logo=jquery&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch_API-FF6B6B?logo=javascript&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-1.13.2-5A29E4?logo=axios&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-4.8.1-010101?logo=socket.io&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=white)
 
 ### Server & Deploy
@@ -184,8 +187,8 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="44%" />
+<img src="https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="43%" />
   
 </div>
 
