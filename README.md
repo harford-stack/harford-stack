@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [JiHoon KIM] 👋
 
 <div align="center">
   
@@ -160,12 +160,7 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
   
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=harford-stack&theme=radical&hide_border=true)
-  
 </div>
-
-> **참고**: GitHub Stats는 캐시로 인해 업데이트가 지연될 수 있습니다.  
-> 업데이트를 강제하려면 `cache_seconds` 파라미터를 조정하거나, Vercel 캐시를 무시하기 위해 URL에 `?v=1` 같은 버전 파라미터를 추가하세요.
 
 ---
 
