@@ -176,16 +176,6 @@
 
 ---
 
-## 🎯 Currently Learning
-
-- Spring Cloud & Microservices Architecture
-- React 19 최신 기능
-- DevOps & CI/CD Pipeline
-- Test-Driven Development (TDD)
-- Performance Optimization Techniques
-
----
-
 ## 📝 Blog & Portfolio
 
 - 📝 [Blog](https://your-blog-url.com) - 기술 블로그
@@ -198,19 +188,7 @@
 
 <div align="center">
   
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-username)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  
-</div>
 
----
-
-<div align="center">
-  
-  ### 💻 "코드로 세상을 더 나은 곳으로 만들어가는 개발자"
-  
-  ⭐️ From [Your Name](https://github.com/your-username)
   
 </div>
 
