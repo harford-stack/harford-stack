@@ -93,6 +93,31 @@
 
 ---
 
+## 💡 What I've Learned
+
+### Backend Development
+- **Spring Boot**: MVC 패턴 구현, 트랜잭션 관리, MyBatis 연동
+- **Node.js/Express**: RESTful API 설계, 미들웨어 활용
+- **Database**: Oracle, MySQL 데이터베이스 설계 및 최적화
+- **Security**: JWT 토큰 기반 인증, 비밀번호 해싱 (argon2, bcrypt)
+- **Real-time**: WebSocket을 활용한 실시간 통신 구현
+
+### Frontend Development
+- **React**: Hooks 최적화, Redux Toolkit 상태 관리, 컴포넌트 기반 개발
+- **Vue.js**: 모바일 최적화, 반응형 디자인
+- **Performance**: 불필요한 리렌더링 방지, 메모이제이션 전략
+
+### Problem Solving
+- **트랜잭션 관리**: 여러 단계의 DB 작업 시 트랜잭션으로 묶어 데이터 일관성 보장
+- **비즈니스 로직 이해**: 상태 변경이 데이터에 미치는 영향 고려
+- **테스트**: 다양한 시나리오에 대한 테스트 케이스 작성
+
+### Collaboration
+- **팀 프로젝트**: Git을 활용한 버전 관리, 역할 분담 및 협업
+- **문서화**: API 문서화, 개발일지 작성, 코드 주석
+
+---
+
 ## 📚 Projects
 
 ### 🏃 RUNNERS' HOUSE
@@ -177,31 +202,6 @@
 - API 문서화 (Swagger)
 
 [📖 프로젝트 상세 보기](https://github.com/harford-stack/LIB_Project)
-
----
-
-## 💡 What I've Learned
-
-### Backend Development
-- **Spring Boot**: MVC 패턴 구현, 트랜잭션 관리, MyBatis 연동
-- **Node.js/Express**: RESTful API 설계, 미들웨어 활용
-- **Database**: Oracle, MySQL 데이터베이스 설계 및 최적화
-- **Security**: JWT 토큰 기반 인증, 비밀번호 해싱 (argon2, bcrypt)
-- **Real-time**: WebSocket을 활용한 실시간 통신 구현
-
-### Frontend Development
-- **React**: Hooks 최적화, Redux Toolkit 상태 관리, 컴포넌트 기반 개발
-- **Vue.js**: 모바일 최적화, 반응형 디자인
-- **Performance**: 불필요한 리렌더링 방지, 메모이제이션 전략
-
-### Problem Solving
-- **트랜잭션 관리**: 여러 단계의 DB 작업 시 트랜잭션으로 묶어 데이터 일관성 보장
-- **비즈니스 로직 이해**: 상태 변경이 데이터에 미치는 영향 고려
-- **테스트**: 다양한 시나리오에 대한 테스트 케이스 작성
-
-### Collaboration
-- **팀 프로젝트**: Git을 활용한 버전 관리, 역할 분담 및 협업
-- **문서화**: API 문서화, 개발일지 작성, 코드 주석
 
 ---
 
