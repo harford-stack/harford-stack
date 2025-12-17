@@ -227,7 +227,19 @@
 
 <div align="center">
   
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jhsimple4@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/harford-stack)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.notion.so/harford-stack/28337e6d45d180c3b258d09936fb4d54)
+  
+</div>
 
+---
+
+<div align="center">
+  
+  ### 💻 "코드로 세상을 더 나은 곳으로 만들어가는 개발자"
+  
+  ⭐️ From [Your Name](https://github.com/harford-stack)
   
 </div>
 
