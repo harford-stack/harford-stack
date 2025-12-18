@@ -218,7 +218,7 @@
 
 ## 📝 Notion & Portfolio
 
-- 📚 [Notion](https://www.notion.so/harford-stack/28337e6d45d180c3b258d09936fb4d54) - 학습일지 및 프로젝트 문서
+- 📚 [Notion](https://www.notion.so/harford-stack/Notion-2cc37e6d45d180fd9237dc9162acdaf4) - 학습일지 및 프로젝트 문서
 - 💼 [Portfolio](https://drive.google.com/file/d/1aWXTnXzW1H-IgtPf0Bp3o2SiMVtJ93Pd/view?usp=drive_link) - 포트폴리오
 
 ---
