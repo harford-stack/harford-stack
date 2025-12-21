@@ -129,7 +129,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-6DB33F?logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-3.0.5-FF6B6B)
 ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-2.x-4FC08D?logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
@@ -186,7 +186,7 @@
 **기술 스택**:  
 ![Vue.js](https://img.shields.io/badge/Vue.js-2.x-4FC08D?logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-5.1.0-000000?logo=express&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-2.0-4285F4?logo=google&logoColor=white)
