@@ -218,10 +218,11 @@
 
 ---
 
-## 📝 Notion & Portfolio
+## 📝 Notion & Portfolio & Resume
 
-- 📚 [Notion](https://www.notion.so/harford-stack/Notion-2cc37e6d45d180fd9237dc9162acdaf4) - 학습일지 및 프로젝트 문서
-- 💼 [Portfolio](https://drive.google.com/file/d/1aWXTnXzW1H-IgtPf0Bp3o2SiMVtJ93Pd/view?usp=drive_link) - 포트폴리오
+- 📚 [Notion](https://harford-stack.notion.site/2ce37e6d45d180e786acc020b1969552) - Study Log / 프로젝트 문서
+- 💼 [Portfolio](https://drive.google.com/file/d/1jhqw7gnmZ-UH75yfY8-WgdwAstMa3M95/view?usp=drive_link) - 프로젝트 포트폴리오
+- 🪪 [Resume](https://docs.google.com/document/d/1LYtL8YJq8janP9WzfO00dW0FJ10DzTLV/edit?usp=drive_link&ouid=105005981308403477276&rtpof=true&sd=true) - 이력서 및 자기소개서
 
 ---
 
