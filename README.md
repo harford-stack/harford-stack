@@ -187,11 +187,7 @@
 **기술 스택**:  
 ![Flutter](https://img.shields.io/badge/Flutter-3.10.3-02569B?logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?logo=firebase&logoColor=black)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?logo=firebase&logoColor=black)
-![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?logo=firebase&logoColor=black)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-6.1.1-764ABC?logo=flutter&logoColor=white)
 
 **주요 기능**:
 
@@ -203,7 +199,7 @@
 - 실시간 알림 시스템
 - 구글 로그인 및 이메일 인증
 
-**개발 기간**: 2025.01 ~ 진행 중  
+**개발 기간**: 2025.12.23 ~ 2026.01.07 (2주)
 **역할**:
 
 - 재료 관리 시스템 개발 (이미지 인식, 직접 입력, 카테고리 관리)
@@ -257,8 +253,10 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harford-stack&theme=radical)](https://github.com/harford-stack)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harford-stack&theme=radical)](https://github.com/harford-stack)
+&nbsp;&nbsp;
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harford-stack&theme=radical)](https://github.com/harford-stack)
   
 </div>
 
