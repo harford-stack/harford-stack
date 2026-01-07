@@ -120,36 +120,8 @@
 
 ## 📚 Projects
 
-### 🏃 RUNNERS' HOUSE
-**러닝 커뮤니티 & 쇼핑몰 플랫폼**
-
-팀 프로젝트로 개발한 러닝 커뮤니티와 쇼핑몰을 결합한 플랫폼입니다.
-
-**기술 스택**:  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-6DB33F?logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-3.0.5-FF6B6B)
-![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-
-**주요 기능**: 
-- 관리자 페이지 (문의, 교환/환불, 주문, 회원 관리)
-- 매출 분석 대시보드 및 그래프
-- 실시간 채팅 시스템
-- SMS 인증 및 AI 기능 연동
-
-**개발 기간**: 2025.10.23 ~ 11.10 (3주)  
-**역할**:
-- 쇼핑몰 메인 페이지 담당
-- 관리자 페이지 개발 담당
-
-[📖 프로젝트 상세 보기](https://github.com/kkomi211/springProject2025)
-
----
-
-### 🎮 3LineMarker
-**지도 기반 소셜 네트워크 서비스**
+### 🎮 3LineMarker (개인 프로젝트)
+**리액트 활용 지도 기반 소셜 네트워크 서비스**
 
 레트로 게임 테마의 지도 기반 소셜 네트워크 서비스입니다.
 
@@ -178,8 +150,36 @@
 
 ---
 
-### 📚 PageStudy
-**스터디 카페 좌석 예약 시스템**
+### 🏃 RUNNERS' HOUSE (팀 프로젝트)
+**스프링부트 활용 러닝 커뮤니티 & 쇼핑몰 플랫폼**
+
+러닝 커뮤니티와 쇼핑몰을 결합한 플랫폼입니다.
+
+**기술 스택**:  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-6DB33F?logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-3.0.5-FF6B6B)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?logo=oracle&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vue.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+
+**주요 기능**: 
+- 관리자 페이지 (문의, 교환/환불, 주문, 회원 관리)
+- 매출 분석 대시보드 및 그래프
+- 실시간 채팅 시스템
+- SMS 인증 및 AI 기능 연동
+
+**개발 기간**: 2025.10.23 ~ 11.10 (3주)  
+**역할**:
+- 쇼핑몰 메인 페이지 담당
+- 관리자 페이지 개발 담당
+
+[📖 프로젝트 상세 보기](https://github.com/kkomi211/springProject2025)
+
+---
+
+### 📚 PageStudy (개인 프로젝트)
+**Node.js 활용 스터디 카페 좌석 예약 시스템**
 
 모바일 전용 화면으로 구현된 스터디카페 좌석 예약 시스템입니다.
 
@@ -222,7 +222,7 @@
 
 - 📚 [Notion](https://harford-stack.notion.site/2ce37e6d45d180e786acc020b1969552) - Study Log / 프로젝트 문서
 - 💼 [Portfolio](https://drive.google.com/file/d/1jhqw7gnmZ-UH75yfY8-WgdwAstMa3M95/view?usp=drive_link) - 프로젝트 포트폴리오
-- 🪪 [Resume](https://docs.google.com/document/d/1LYtL8YJq8janP9WzfO00dW0FJ10DzTLV/edit?usp=drive_link&ouid=105005981308403477276&rtpof=true&sd=true) - 이력서 및 자기소개서
+- 💷 [Resume](https://docs.google.com/document/d/1LYtL8YJq8janP9WzfO00dW0FJ10DzTLV/edit?usp=drive_link&ouid=105005981308403477276&rtpof=true&sd=true) - 이력서 및 자기소개서
 
 ---
 
