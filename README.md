@@ -178,6 +178,52 @@
 
 ---
 
+### 🍳 ShakeCook (팀 프로젝트)
+
+**Flutter 활용 AI 레시피 추천 모바일 앱**
+
+재료를 선택하고 폰을 흔들면 AI가 맞춤형 레시피를 추천해주는 모바일 앱입니다.
+
+**기술 스택**:  
+![Flutter](https://img.shields.io/badge/Flutter-3.10.3-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?logo=firebase&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?logo=firebase&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-6.1.1-764ABC?logo=flutter&logoColor=white)
+
+**주요 기능**:
+
+- Google Gemini AI를 활용한 맞춤형 레시피 3개 생성
+- 흔들기 제스처로 재미있게 레시피 생성 (진행률 표시)
+- 이미지 인식 및 직접 선택으로 재료 관리
+- 냉장고 재료를 카테고리별로 관리
+- 커뮤니티 기능 (게시글, 댓글, 대댓글, 북마크)
+- 실시간 알림 시스템
+- 구글 로그인 및 이메일 인증
+
+**개발 기간**: 2025.01 ~ 진행 중  
+**역할**:
+
+- 재료 관리 시스템 개발 (이미지 인식, 직접 입력, 카테고리 관리)
+- 커뮤니티 기능 개발 (게시글 CRUD, 댓글/대댓글, 북마크)
+- 알림 시스템 구현
+- Firebase Firestore 데이터베이스 설계 및 구현
+- UI/UX 개선 (재료 추가/삭제, 토스트 알림, 테마 선택)
+
+**특징**:
+
+- Provider 패턴을 활용한 효율적인 상태 관리
+- Firestore 서브컬렉션을 활용한 데이터 구조 설계
+- 흔들기 제스처를 활용한 인터랙티브 UX
+- AI API 연동 및 프롬프트 최적화
+- 이미지 업로드 및 Firebase Storage 연동
+
+[📖 프로젝트 상세 보기](https://github.com/harford-stack/flutter_team_project)
+
+---
+
 ### 📚 PageStudy (개인 프로젝트)
 **Node.js 활용 스터디 카페 좌석 예약 시스템**
 
@@ -211,8 +257,8 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="56%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="42.5%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harford-stack&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harford-stack&layout=compact&theme=radical&hide_border=true)
   
 </div>
 
