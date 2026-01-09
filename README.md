@@ -22,16 +22,11 @@
 <td><strong>백엔드</strong></td>
 <td>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?logo=spring-security&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/REST_API-FF6B6B?logo=rest&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/MyBatis-FF6B6B" alt="MyBatis" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/OAuth-4285F4?logo=google&logoColor=white" alt="OAuth" />
-  <img src="https://img.shields.io/badge/bcrypt-FF6B6B?logo=bcrypt&logoColor=white" alt="bcrypt" />
-  <img src="https://img.shields.io/badge/argon2-FF6B6B?logo=argon2&logoColor=white" alt="argon2" />
 </td>
 </tr>
 <tr>
@@ -40,13 +35,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?logo=mui&logoColor=white" alt="Material-UI" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
 </td>
 </tr>
 <tr>
@@ -55,11 +43,6 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black" alt="Firestore" />
-  <img src="https://img.shields.io/badge/Ajax-0769AD?logo=jquery&logoColor=white" alt="Ajax" />
-  <img src="https://img.shields.io/badge/Fetch_API-FF6B6B?logo=javascript&logoColor=white" alt="Fetch API" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white" alt="Axios" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?logo=socket.io&logoColor=white" alt="WebSocket" />
 </td>
 </tr>
 <tr>
@@ -67,24 +50,12 @@
 <td>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazon-ec2&logoColor=white" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/AWS_RDS-527FFF?logo=amazon-rds&logoColor=white" alt="AWS RDS" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?logo=amazon-s3&logoColor=white" alt="AWS S3" />
-</td>
-</tr>
-<tr>
-<td><strong>프로그래밍 도구</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Multer-000000?logo=multer&logoColor=white" alt="Multer" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white" alt="Leaflet" />
 </td>
 </tr>
 <tr>
 <td><strong>협업/기획</strong></td>
 <td>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion" />
 </td>
