@@ -239,7 +239,7 @@
 
 - 📚 [Notion](https://harford-stack.notion.site/2ce37e6d45d180e786acc020b1969552) - Study Log / 포트폴리오 / 이력서
 - 💼 [Portfolio](https://drive.google.com/file/d/1wYLQuT0mRxFv175tyibqPN0pBvtxK8Qa/view?usp=sharing) - 프로젝트 포트폴리오
-- 💷 [Resume](https://drive.google.com/file/d/1I7OgIli3Tu3rPtAIb4S5HTbD9-9-87ez/view?usp=sharing) - 이력서 및 자기소개서
+- 💷 [Resume](https://drive.google.com/file/d/1LcT93ZDlGAicNDrCE1qE8sZewOXtU4QU/view?usp=sharing) - 이력서 및 자기소개서
 
 ---
 
